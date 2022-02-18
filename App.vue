@@ -58,6 +58,7 @@
 import L from 'leaflet'
 import 'leaflet.heat'
 import * as d3 from 'd3-scale'
+import axios from 'axios'
 
 export default {
 
